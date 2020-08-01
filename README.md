@@ -1,6 +1,6 @@
 # Time_Tracker_Assignment
 
-This is a project result for group 17,a time tracking program using python.
+This is a project result for group 17, a time tracking program using python.
 
 To use this application:
 1. Run the codes in a python supporting editor
