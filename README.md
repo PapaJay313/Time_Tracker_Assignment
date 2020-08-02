@@ -39,10 +39,15 @@ HOW IT WORKS
 When the program interface is opened, it will;
 
 •	Instruct the user to click on the start button to begin working.
+
 •	The current systems date and time will display as the starting time.
+
 •	The program the automatically track the amount of time spend working.
+
 •	When work is done the user has the choice to enter the amount per hour and click on stop.
+
 •	The program then displays current system’s date and time as the ending time.
+
 •	This will then the time spent and the amount earned in dollars and send the information to the csv file in excel. 
 
 CONCLUSION
@@ -50,7 +55,10 @@ CONCLUSION
 This Time Tracking Program executes with no errors. It therefore satisfies the customer’s needs.
 
 CONTRIBUTORS
+
 •	Jacob Mensah 
+
 •	Isaac Arkoful
+
 •	Ibrahim Adam
 
