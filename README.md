@@ -35,6 +35,7 @@ When the program interface is opened, it will;
 •	When work is done the user has the choice to enter the amount per hour and click on stop.
 •	The program then displays current system’s date and time as the ending time.
 •	This will then the time spent and the amount earned in dollars and send the information to the csv file in excel. 
+
 CONCLUSION
 This Time Tracking Program executes with no errors. It therefore satisfies the customer’s needs.
 
