@@ -7,4 +7,4 @@ To use this application:
 2. click on start, this will display the start time and date for which you started working.
 3. Enter the amount per hour. eg ($5/hr) 
 4. Click on stop after work to display hours spent and amount earned.
-5. The time worked and amount of money earned from the program can be found in the csv file attached.
+5. The time used to work on the program and the amount of money earned from the program can be found in the csv file attached.
